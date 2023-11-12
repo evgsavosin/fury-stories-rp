@@ -1,0 +1,75 @@
+tmpobjid = CreateObject(5896, 1103.520019, -896.929992, 63.898399, 0.000000, 0.000000, 0.000000, 700.00); // fco
+SetObjectMaterial(tmpobjid, 0, 3445, "vegashse6", "vegashousewal3_256", 0x00000000);
+SetObjectMaterial(tmpobjid, 1, 8639, "chinatownmall", "ctmall19_128", 0x00000000);
+SetObjectMaterial(tmpobjid, 2, 16640, "a51", "ws_stationfloor", 0x00000000);
+SetObjectMaterial(tmpobjid, 3, 8639, "chinatownmall", "ctmall19_128", 0x00000000);
+SetObjectMaterial(tmpobjid, 4, 16093, "a51_ext", "ws_whitewall2_top", 0x00000000);
+SetObjectMaterial(tmpobjid, 5, 8639, "chinatownmall", "ctmall19_128", 0x00000000);
+SetObjectMaterial(tmpobjid, 6, 9514, "711_sfw", "ws_carpark2", 0x00000000);
+SetObjectMaterial(tmpobjid, 7, 2813, "gb_books01", "GB_magazine06", 0x00000000);
+SetObjectMaterial(tmpobjid, 8, 6357, "sunstrans_law2", "SunBillB10", 0x00000000);
+SetObjectMaterial(tmpobjid, 9, 6336, "sunset02_law2", "SunBillB08", 0x00000000);
+
+
+tmpobjid = CreateDynamicObject(19353, 1114.013671, -922.081359, 44.113315, 0.000014, 0.000000, 89.999931, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 8639, "chinatownmall", "ctmall16_128", 0x00000000);
+tmpobjid = CreateDynamicObject(19353, 1117.213745, -922.081359, 44.113330, 0.000014, 0.000000, 89.999931, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 8639, "chinatownmall", "ctmall16_128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1146.503662, -900.656005, 41.270626, 0.000000, 0.000000, 4.099997, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(1257, 1065.093383, -966.837524, 42.983585, 0.000000, 0.000000, -81.600082, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 17508, "barrio1_lae2", "gangsign4_LAe", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 1, 1717, "cj_tv", "green_glass_64", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1147.452026, -911.222167, 41.270626, 0.000000, 0.000000, 5.199995, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(2599, 1125.089477, -924.020935, 42.801464, 0.000000, 0.000000, 26.699996, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 6336, "sunset02_law2", "SunBillB08", 0x00000000);
+tmpobjid = CreateDynamicObject(2599, 1107.242065, -924.656250, 42.801464, 0.000000, 0.000000, -4.000003, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 6336, "sunset02_law2", "SunBillB08", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1120.183593, -869.004516, 41.773357, 0.000000, -72.799987, 90.500007, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1115.757934, -927.172302, 41.777648, -0.000003, -72.799987, -90.499977, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(1257, 1110.726440, -939.908081, 43.113574, 0.000000, 0.000000, 93.199943, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 17508, "barrio1_lae2", "gangsign4_LAe", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 1, 1717, "cj_tv", "green_glass_64", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1145.815063, -891.061462, 41.270626, 0.000000, 0.000000, 4.099997, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1145.261108, -881.458190, 41.270629, 0.000000, 0.000000, 2.499999, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1144.843872, -871.887817, 41.270629, 0.000000, 0.000000, 2.499999, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1144.425415, -862.297119, 41.270629, 0.000000, 0.000000, 2.499999, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1144.006835, -852.696411, 41.270629, 0.000000, 0.000000, 2.499999, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1148.247192, -920.792602, 41.270626, 0.000000, 0.000000, 4.299996, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16640, "a51", "ws_stationfloor", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 2, 16640, "a51", "ws_stationfloor", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1110.574462, -869.089233, 41.773357, 0.000000, -72.799987, 90.500007, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1100.955810, -869.173400, 41.773357, 0.000000, -72.799987, 90.500007, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1091.356811, -869.256958, 41.773357, 0.000000, -72.799987, 90.500007, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1129.763916, -868.920715, 41.773357, 0.000000, -72.799987, 90.500007, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 16644, "a51_detailstuff", "steel256128", 0x00000000);
+tmpobjid = CreateDynamicObject(19445, 1086.449951, -922.034118, 43.280632, 0.000000, 0.000000, 89.999992, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 3979, "civic01_lan", "sl_concretewall1", 0x00000000);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+tmpobjid = CreateDynamicObject(9093, 1120.341796, -874.137939, 44.161209, 0.000000, 0.000000, -89.900077, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(19964, 1132.806152, -939.675720, 41.472301, 0.000000, 0.000000, -101.799964, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(19962, 1132.812866, -939.670532, 42.687152, 0.000000, 0.000000, -92.399993, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1234, 1115.541625, -940.502746, 43.476493, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1346, 1114.871093, -939.844360, 43.208030, 0.000000, 0.000000, -178.099838, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(737, 1104.194702, -936.119262, 42.214946, 0.000000, 0.000000, -100.499984, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(737, 1125.932617, -934.448120, 42.604961, 0.000000, 0.000000, 52.399993, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(737, 1147.231689, -918.606811, 41.994956, 0.000000, 0.000000, 3.399998, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(3660, 1127.435546, -934.022521, 43.975418, 0.000000, 0.000000, 4.099998, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(3660, 1107.875366, -935.425109, 43.975418, 0.000000, 0.000000, 4.099998, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(3660, 1093.111694, -936.484008, 43.968425, 0.000000, 0.000000, 3.400000, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(3660, 1072.960327, -937.680358, 43.968425, 0.000000, 0.000000, 3.400000, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(9093, 1107.822509, -874.109130, 44.161209, 0.000000, 0.000000, -90.100074, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(9093, 1095.560180, -874.087768, 44.161209, 0.000000, 0.000000, -90.100074, -1, -1, -1, 300.00, 300.00); 

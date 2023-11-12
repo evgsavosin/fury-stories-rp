@@ -1,0 +1,10 @@
+tmpobjid = CreateDynamicObject(19464, 1041.190551, -1025.510253, 32.157577, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-90-percent", 0x00000000);
+tmpobjid = CreateDynamicObject(19464, 1843.779785, -1856.145874, 13.052822, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 19480, "signsurf", "sign", 0x00000000);
+tmpobjid = CreateDynamicObject(19464, 2071.241455, -1831.340332, 14.114548, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 19480, "signsurf", "sign", 0x00000000);
+tmpobjid = CreateDynamicObject(19464, 1024.960083, -1029.052612, 32.907562, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 19480, "signsurf", "sign", 0x00000000);
+tmpobjid = CreateDynamicObject(19464, 488.513458, -1736.055664, 12.504800, 0.000000, 0.000000, 85.400024, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 19480, "signsurf", "sign", 0x00000000);
